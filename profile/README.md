@@ -1,5 +1,5 @@
-# This is yoyoOS
-Welcome to Youssef Land's OS called yoyoOS!
+# This is Youssef Land Metro
+Welcome to Youssef Land's OS called Youssef Land Metro!
 
 This is based on macOS, Linux and Windows.
-yoyoOS allows files from these OSes.
+Youssef Land Metro allows files from these OSes.
